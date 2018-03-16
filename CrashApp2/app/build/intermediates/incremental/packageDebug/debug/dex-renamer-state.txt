@@ -1,0 +1,4 @@
+#Fri Mar 16 11:27:42 CET 2018
+base.0=/home/manuel/AndroidStudioProjects/CrashApp2/app/build/intermediates/transforms/dexMerger/debug/37
+path.0=classes.dex
+renamed.0=classes.dex
